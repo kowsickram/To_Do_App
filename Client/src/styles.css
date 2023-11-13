@@ -1,0 +1,19 @@
+input{
+    border: none;
+    
+}
+button{
+    border: none;
+    margin-left: 20px;
+    color: snow;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: snow;
+}
+.todo{
+    color: aliceblue;
+    cursor: pointer;
+}
